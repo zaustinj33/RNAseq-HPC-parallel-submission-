@@ -21,7 +21,7 @@ Excecutes multiple software commands to analyze library contents, trim, clean, a
 1) TrimGalore - clean and trim reads
 2) FastQC - clean quality analysis
 3) STAR alignment - map reads
-*4) Counts files also generate by STAR. Need to add Kallisto for transcript counts
+4) Counts files also generate by STAR. Need to add Kallisto for transcript counts
 
 ## 3) MultiQC
 ### Input: statitics summaries of FastQC and STAR | Output: .html report of all analysis
