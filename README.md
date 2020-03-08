@@ -11,7 +11,7 @@ Bash scripts designed to submit and process multiple raw RNA libraries for RNAse
 Script that will generate list of .fq files that are stored in raw_data
 
 ## 1) Submission script
-### Input: list.txt, 02_.sbatch
+### Input: list.txt, 02_.sbatch | Output: none
 Submission script will create a unique sbatch code for each pair of read files and submit to the Slurm HPC
 
 ## 2) Excecution script
